@@ -26,6 +26,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaizenofficiall/KaiZe
 elseif game.PlaceId == 914010731 then -- ro ghoul
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaizenofficiall/ZenHub/main/Roghoul", true))()
 
+elseif game.PlaceId == 2788229376 then -- da hood
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MASTER8245/Zen-Hub/main/Da%20Hood%20V0.1", true))()
+
+-------Blox fruit--------------
 elseif game.PlaceId == 2753915549 then -- blox fruit world 1
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaizenofficiall/ZenHub/main/bloxfrui%20v0.3", true))()
 
